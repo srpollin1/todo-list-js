@@ -24,6 +24,9 @@ input,
 .btn {
   transition: all 1s;
 }
+body {
+  background-color: #892cdc;
+}
 
 body.darkMode {
   background-color: #892cdc;
