@@ -20,8 +20,8 @@ todo list javascript bootstrap 5
 6.-Descargamos la extensión live server
 6.-We download the live server extension
 
-7.- Se instala y apretamos click derecho en el archivo index.php
-7.- It is installed and we press right click on the file index.php
+7.- Se instala y apretamos click derecho en el archivo index.html
+7.- It is installed and we press right click on the file index.html
 
 8.- Saldrá Open with Live Server y listo :3
 8.- Open with Live Server will come out and that's it :3
